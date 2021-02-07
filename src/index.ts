@@ -1,4 +1,4 @@
-import { serverlessHttp } from './serverless-http';
+export { app } from './base-app';
 /**
  * utilities
  */
