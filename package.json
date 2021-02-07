@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/maviola5/hephaestus#readme",
   "dependencies": {
-    "serverless-http": "^2.7.0"
+    "serverless-http": "^2.7.0",
+    "winston": "^3.3.3"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
