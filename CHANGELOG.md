@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/maviola5/hephaestus/compare/v1.2.0...v1.3.0) (2021-02-07)
+
+
+### Features
+
+* **base-app:** base koa app with common middleware ([#4](https://github.com/maviola5/hephaestus/issues/4)) ([f055974](https://github.com/maviola5/hephaestus/commit/f05597442f27ec779bec670bde20dbdb3b4ef7ad))
+
 # [1.2.0](https://github.com/maviola5/hephaestus/compare/v1.1.0...v1.2.0) (2021-02-07)
 
 
