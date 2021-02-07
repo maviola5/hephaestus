@@ -7,7 +7,6 @@ export const serverlessHttp = (
   let handler: any;
   return () => {
     if (!handler) {
-      console.log('initializing cache.');
       handler = serverless(app, {
         request(request: any, event: APIGatewayEvent) {
           request.headers.sourceIp = event.requestContext.identity.sourceIp;
