@@ -1,7 +1,7 @@
-export class BadRequestError extends Error {
+export class NotFoundError extends Error {
   message: string;
   status: number;
-  constructor(message: string, status = 400) {
+  constructor(message = 'Resource not found.', status = 404) {
     super();
     this.message = message;
     this.status = status;
