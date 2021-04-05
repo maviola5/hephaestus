@@ -8,6 +8,6 @@ export const errorHandler = () => async (ctx: Context, next: Next) => {
   } catch (err) {
     logger.info(err);
     ctx.status = err.status || 500;
-    ctx.body = err.status === 500 ? 'internal server error' : err.message;
+    ctx.body = ctx.status === 500 ? 'Internal server error' : err.message;
   }
 };
