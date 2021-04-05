@@ -1,6 +1,6 @@
 {
   "name": "@maviola5/hephaestus",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "A library of common utilities & wrappers used in personal projects",
   "main": "dist/index.js",
   "scripts": {

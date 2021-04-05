@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/maviola5/hephaestus/compare/v1.3.0...v1.4.0) (2021-04-05)
+
+
+### Features
+
+* add not found resource error ([#5](https://github.com/maviola5/hephaestus/issues/5)) ([d490892](https://github.com/maviola5/hephaestus/commit/d49089239f45ed8ef0e2257475f830bb9b5a48fa))
+
 # [1.3.0](https://github.com/maviola5/hephaestus/compare/v1.2.0...v1.3.0) (2021-02-07)
 
 
