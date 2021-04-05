@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/maviola5/hephaestus/compare/v1.4.0...v1.4.1) (2021-04-05)
+
+
+### Bug Fixes
+
+* not found error export ([#6](https://github.com/maviola5/hephaestus/issues/6)) ([b925bd3](https://github.com/maviola5/hephaestus/commit/b925bd3063f1499c0c3bfa66855f4716e56b04f3))
+
 # [1.4.0](https://github.com/maviola5/hephaestus/compare/v1.3.0...v1.4.0) (2021-04-05)
 
 
