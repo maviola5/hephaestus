@@ -5,6 +5,7 @@ export { app } from './base-app';
 export { serverlessHttp as serverless } from './serverless-http';
 export { createLogger } from './logger';
 export { BadRequestError } from './resource-errors/bad-request-error';
+export { NotFoundError } from './resource-errors/not-found-request-error';
 
 /**
  * Koa middleware
