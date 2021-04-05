@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/maviola5/hephaestus/compare/v1.4.1...v1.4.2) (2021-04-05)
+
+
+### Bug Fixes
+
+* errorHandler not returning 'Internal server error' ([#7](https://github.com/maviola5/hephaestus/issues/7)) ([7f20f16](https://github.com/maviola5/hephaestus/commit/7f20f168b3ce1cfcabe4e01750bc9d88fa7a376e))
+
 ## [1.4.1](https://github.com/maviola5/hephaestus/compare/v1.4.0...v1.4.1) (2021-04-05)
 
 
